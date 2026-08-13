@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./ali-sayam-banner.png" alt="Ali Sayam - CSE Student | FULL-STACK Developer | Builder" width="100%">
+</p>
+
 # 👋 Hi, I'm Ali Sayam
 
 🎓 Computer Science Engineering Student  

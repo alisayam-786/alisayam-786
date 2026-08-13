@@ -1,46 +1,39 @@
-# Hi, I'm Ali Sayam 👋
+# 👋 Hi, I'm Ali Sayam
 
 🎓 Computer Science Engineering Student  
-💻 Full-Stack Developer  
-🚀 Building practical projects and improving my problem-solving skills
+💻 Developer | 🚀 Project Builder
 
-## 🛠️ Tech Stack
+I enjoy building practical projects, learning new technologies, and improving my problem-solving skills through hands-on development.
 
-**Languages**
-- C
-- Java
-- Python
-- JavaScript
+## 🚀 Current Focus
 
-**Web & Database**
-- HTML
-- CSS
-- MySQL
-
-**Tools**
-- Git
-- GitHub
-- VS Code
+- 🧠 Data Structures & Algorithms
+- ☕ Java & Object-Oriented Programming
+- 🌐 Web Development
+- 🛠️ Building practical projects
+- 🔧 Improving my Git & GitHub workflow
 
 ## 🚀 Featured Projects
 
-### ClearMate
-A practical project focused on making it easier to identify and resolve common errors.
+### 🔹 ClearMate
+A project focused on making it easier to identify and resolve common errors.
 
-### Wayfinder
-A campus navigation project designed to help students find locations around campus.
+🔗 [View ClearMate](https://github.com/alisayam-786/ClearMate)
 
-### Light Tracking Robot
+### 🔹 Wayfinder
+A campus navigation project designed to help students find important locations around campus.
+
+### 🔹 Light Tracking Robot
 An Arduino-based IoT project that follows a light source.
 
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
 - Java
-- Full-Stack Development
-- Git & GitHub
+- Web Development
+- Software Development Practices
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-sayam/)
-- GitHub: [GitHub](https://github.com/alisayam-786)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ali-sayam/)
+- 💻 [GitHub](https://github.com/alisayam-786)
